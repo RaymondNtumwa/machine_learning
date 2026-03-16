@@ -1,0 +1,10 @@
+Kaggle Titanic:
+https://www.kaggle.com/competitions/titanic
+
+
+OpenML Adult Census Income:
+https://www.openml.org/d/179
+
+
+Concrete data:
+https://archive.ics.uci.edu/ml/machine-learning-databases/concrete/compressive/Concrete_Data.xls
